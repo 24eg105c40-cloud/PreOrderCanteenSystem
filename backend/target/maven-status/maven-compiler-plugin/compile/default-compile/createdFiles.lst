@@ -1,0 +1,11 @@
+com\canteen\controller\OrderController.class
+com\canteen\repository\FoodItemRepository.class
+com\canteen\controller\OrderController$CreateOrderRequest.class
+com\canteen\model\FoodItem.class
+com\canteen\model\CanteenOrder.class
+com\canteen\controller\FoodController.class
+com\canteen\PreOrderCanteenApplication.class
+com\canteen\repository\CanteenOrderRepository.class
+com\canteen\config\CorsConfig$1.class
+com\canteen\config\CorsConfig.class
+com\canteen\controller\HealthController.class
