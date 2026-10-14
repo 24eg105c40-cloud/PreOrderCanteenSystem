@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pre-Order Canteen System — Full Stack Java Project
 
 ## Technology
@@ -76,3 +77,6 @@ mvn spring-boot:run
 - `PUT /api/orders/{id}/status`
 
 This is a student-project starter. Before real deployment, add secure authentication/authorization, payment integration if required, and production database credentials via environment variables.
+=======
+# PreOrderCanteenSystem
+>>>>>>> b7a0238badebeb3166cda0d71e320c2108941cac
