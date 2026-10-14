@@ -11,6 +11,7 @@ import org.springframework.web.server.ResponseStatusException;
 import java.util.Map;
 import java.util.Set;
 
+@CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/api/orders")
 public class OrderController {
